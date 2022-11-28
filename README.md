@@ -1,0 +1,1 @@
+Repo for random C-coding work. Mostly school stuff.
